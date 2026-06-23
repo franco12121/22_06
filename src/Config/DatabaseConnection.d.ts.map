@@ -1,0 +1,1 @@
+{"version":3,"file":"DatabaseConnection.d.ts","sourceRoot":"","sources":["DatabaseConnection.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,IAAI,EAAE,MAAM,gBAAgB,CAAC;AACtC,OAAO,EAAE,YAAY,EAAE,MAAM,wBAAwB,CAAC;AAEtD,qBAAa,kBAAkB;IAC3B,OAAO,CAAC,MAAM,CAAC,QAAQ,CAAmC;IACnD,KAAK,EAAE,IAAI,EAAE,CAAM;IACnB,aAAa,EAAE,YAAY,EAAE,CAAM;IAE1C,OAAO;WAEO,WAAW,IAAI,kBAAkB;CAMlD"}
